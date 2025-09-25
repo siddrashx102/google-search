@@ -23,6 +23,6 @@ The goal of this project was to strengthen my understanding of CSS fundamentals 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Snapshot
 <img width="959" height="469" alt="project-snapshot" src="https://github.com/user-attachments/assets/d7f76e54-c025-4f22-baf5-9077d314fdda" />
 
