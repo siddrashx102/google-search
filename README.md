@@ -6,23 +6,25 @@ The goal of this project was to strengthen my understanding of CSS fundamentals 
 ---
 
 ## 🔥 Features
-- Clean and simple layout inspired by Google Search  
-- Centered search box using **flexbox**  
-- Responsive structure (works across different screen sizes)  
-- Minimal HTML (15 lines) and CSS (44 lines)  
+
+- Clean and simple layout inspired by Google Search
+- Centered search box using **flexbox**
+- Responsive structure (works across different screen sizes)
+- Minimal HTML (15 lines) and CSS (44 lines)
 
 ---
 
 ## 🧑‍💻 Concepts Practiced
-- CSS syntax  
-- Inline vs block elements  
-- Margins, padding, and borders  
-- Working with `<div>`s and classes  
-- Centering content  
-- Flexbox for layout  
+
+- CSS syntax
+- Inline vs block elements
+- Margins, padding, and borders
+- Working with `<div>`s and classes
+- Centering content
+- Flexbox for layout
 
 ---
 
 ## 📂 Project Snapshot
-<img width="959" height="469" alt="project-snapshot" src="https://github.com/user-attachments/assets/d7f76e54-c025-4f22-baf5-9077d314fdda" />
 
+<img width="959" height="469" alt="project-snapshot" src="https://github.com/user-attachments/assets/d7f76e54-c025-4f22-baf5-9077d314fdda" />
